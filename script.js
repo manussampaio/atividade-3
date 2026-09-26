@@ -1,4 +1,4 @@
-function cadotroo() {
+function cadastrar() {
     const nome = document.getElementById("nome").value;
 
     const email = document.getElementById("email").value;
